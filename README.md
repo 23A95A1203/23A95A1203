@@ -1,7 +1,6 @@
-<h1 align="center">Hello Folks 😃👋, I'm KATRAJU RAVITEJA</h1>
-<h3 align="center">Passionate FullStack Developer | AI & DevOps Enthusiast | Cloud Explorer</h3>
-
----
+<h1 align="center">Hello World!! 😃👋, I'm KATRAJU RAVITEJA</h1>
+<h3 align="center">💻 Passionate FullStack Developer | AI & DevOps Enthusiast | Cloud Explorer</h3>
+<h3 align="center">📍 Based in Andhra Pradesh, India | 🌐 Open to remote opportunities</h3>
 
 ### 🚀 About Me
 
