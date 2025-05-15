@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @23A95A1203  
+- 👀 I’m interested in Full Stack Development, DevOps & Cloud Technologies  
+- 🌱 I’m currently learning AWS, Docker, Kubernetes, and Advanced React  
+- 💞️ I’m looking to collaborate on web development and cloud deployment projects  
+- 📫 How to reach me: katrajuraviteja@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can build and deploy full-stack apps in a weekend!
