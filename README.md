@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech IT Student | Class of 2026  
-- 💻 Tech Stack: `Java`, `Python`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`, `AWS`, `Docker`, `VS Code` `GitHub`  
+- 💻 Tech Stack:`Python`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`, `AWS`, `Docker`, `VS Code` `GitHub`  
 - 🔭 Currently working on: **Various FullStack Pojects** 
 - 🌱 Learning: `CI/CD`, `Kubernetes`, `System Design`, `PostgreSQL`  
 - 🧠 Interests: Full Stack Development, DevOps, Cloud Computing, IoT + AI  
