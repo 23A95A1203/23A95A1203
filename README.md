@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/teja999" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=codolio&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/Codolio-FFA116?style=for-the-badge&logo=codolio&logoColor=black" alt="Codolio" />
   </a>
 </p>
  
