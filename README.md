@@ -32,17 +32,8 @@
 ## </> My Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Teja999/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ravitejakatraju1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/ravitejakatraju73" target="_blank">
-    <img src="https://img.shields.io/badge/Geeksforgeeks-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
- <a href="https://www.geeksforgeeks.org/user/ravitejakatraju73/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <a href="https://codolio.com/profile/teja999" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=codolio&logoColor=black" alt="LeetCode" />
   </a>
 </p>
  
