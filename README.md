@@ -1,14 +1,14 @@
-<h1 align="center">Hello Techies!! 😃👋, I'm KATRAJU RAVITEJA</h1>
+<h1 align="center">Hello !! 😃👋, I'm KATRAJU RAVITEJA</h1>
 <h3 align="center">💻 Passionate FullStack Developer | 🤖🧠🇦🇮👾 & DevOps Enthusiast ♾️ | Cloud Explorer ☁︎</h3>
 <h3 align="center">📍 Based in Andhra Pradesh, India | 🌐 Seeking for SDE roles</h3>
 
 ### 🚀 About Me
 
 - 🎓 B.Tech IT Student | Class of 2026  
-- 💻 Tech Stack:`Python`, `ReactJS`, `Node.js`, `MongoDB`, `MySQL`, `AWS`, `Docker`, `VS Code` `GitHub`  
+- 💻 Tech Stack:`Python`, `ReactJS`, `Node.js`, `MongoDB`, `SQL`, `AWS`, `Docker`, `VS Code` `GitHub`  
 - 🔭 Currently working on: **Various FullStack Pojects** 
 - 🌱 Learning: `CI/CD`, `Kubernetes`, `System Design`, `PostgreSQL`  
-- 🧠 Interests: Full Stack Development, DevOps, Cloud Computing, IoT + AI  
+- 🧠 Interests: Full Stack Development, DevOps, Cloud Computing, AI  
 - ✨ Fun Fact: I break things just to fix them better 😄
 
 ---
